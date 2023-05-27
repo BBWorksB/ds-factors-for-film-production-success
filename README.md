@@ -4,23 +4,21 @@
 ## 1. Business Understanding
 
 ### a) Introduction
-Film production has become one of the best ways to cultivate an image of a product and create a little world of fantasies for the viewers. Many companies are investing in this and the growth of the companies has triggered the interest of other companies to invest in it too. 
+Microsft company is the principle company that has sustained alot of tech over years and remained relevant to its audience. On the other hand, movie production has picked up so quick and created a big impact in the current world. Many companies are siezing this opportuinity and getting into the fun of it.
 
-This project is to use data collected from different movie platforms to determine the factor of success in film production. 
+Therefore is crucial to gain a comprehensive understanding of the film industry's dynamics and box office trends. This involves analyzing the market, identifying successful film genres, considering audience preferences, and translating these insights into actionable strategies for Microsoft's new movie studio.
 
 ### b) Problem of the Statement
-For a better insight into investing, traditional methods to make decisions cannot be reliable. The use of a data-driven decision is more reliable. Before starting to invest in film production, getting a clear understanding of the factors to consider for the success of the same is important.
-
-It is important to have this understanding not only to get better returns but to also remain relevant to the community and the target audience. Relevance is the best market strategy that increases the studio's gross income. Therefore better and clear decisions are to be made before investing.
+Microsoft aims to establish a new movie studio but lacks expertise in creating movies. To make informed decisions about the types of films to produce, the head of Microsoft's movie studio needs actionable insights regarding the current box office trends. The goal is to explore successful film genres and translate these findings into strategic recommendations for Microsoft's movie studio.
 
 ### c) Main Objective
-To determine the factors that lead to film production success.
+To provide actionable insights to the head of Microsoft new movie studio, helping them what type of films to produce.
 
 ### d) Specific Objective
-* Data for determining the relationship between the audience rating and genre and the movie runtime.
-* Determine the relationship between movie budget production and its domestic and worldwide gross.
-* Determine the best-performing studio in terms of domestic and foreign gross.
-* Determine the Age rating of the film and its value in Box office.
+* Provide genre-specific recommendations
+* Identify the success of film production.
+* Explore collaboration opportunities.
+* Understanding age of the Audience .
 
 ### e) Experimental Design
 1. Data Collection
